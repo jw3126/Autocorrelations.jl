@@ -1,0 +1,3 @@
+[deps]
+Autocorrelations = "c73fd7d7-162c-4687-9dc9-45d4c4ecdd82"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
